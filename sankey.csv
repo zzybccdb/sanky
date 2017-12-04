@@ -1,8 +1,8 @@
 source,target,value
-Barry,Elvis,2
-Frodo,Elvis,2
-Frodo,Sarah,2
-Barry,Alice,2
+Barry,Elvis,1
+Frodo,Elvis,1
+Frodo,Sarah,1
+Barry,Alice,1
 Elvis,Sarah,2
 Elvis,Alice,2
 Sarah,Alice,4
