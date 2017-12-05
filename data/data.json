@@ -1,0 +1,696 @@
+{
+  "links": [
+    {
+      "value": 4,
+      "target": 3,
+      "source": 18
+    },
+    {
+      "value": 2,
+      "target": 8,
+      "source": 18
+    },
+    {
+      "value": 4,
+      "target": 12,
+      "source": 19
+    },
+    {
+      "value": 1,
+      "target": 5,
+      "source": 20
+    },
+    {
+      "value": 1,
+      "target": 15,
+      "source": 20
+    },
+    {
+      "value": 2,
+      "target": 6,
+      "source": 21
+    },
+    {
+      "value": 3,
+      "target": 12,
+      "source": 22
+    },
+    {
+      "value": 1,
+      "target": 15,
+      "source": 22
+    },
+    {
+      "value": 2,
+      "target": 6,
+      "source": 23
+    },
+    {
+      "value": 1,
+      "target": 5,
+      "source": 24
+    },
+    {
+      "value": 5,
+      "target": 12,
+      "source": 24
+    },
+    {
+      "value": 1,
+      "target": 1,
+      "source": 25
+    },
+    {
+      "value": 6,
+      "target": 3,
+      "source": 25
+    },
+    {
+      "value": 3,
+      "target": 8,
+      "source": 25
+    },
+    {
+      "value": 1,
+      "target": 10,
+      "source": 25
+    },
+    {
+      "value": 1,
+      "target": 5,
+      "source": 26
+    },
+    {
+      "value": 1,
+      "target": 12,
+      "source": 26
+    },
+    {
+      "value": 2,
+      "target": 12,
+      "source": 27
+    },
+    {
+      "value": 3,
+      "target": 15,
+      "source": 27
+    },
+    {
+      "value": 1,
+      "target": 5,
+      "source": 28
+    },
+    {
+      "value": 5,
+      "target": 12,
+      "source": 28
+    },
+    {
+      "value": 1,
+      "target": 1,
+      "source": 29
+    },
+    {
+      "value": 2,
+      "target": 3,
+      "source": 29
+    },
+    {
+      "value": 1,
+      "target": 3,
+      "source": 30
+    },
+    {
+      "value": 1,
+      "target": 6,
+      "source": 31
+    },
+    {
+      "value": 3,
+      "target": 1,
+      "source": 32
+    },
+    {
+      "value": 1,
+      "target": 4,
+      "source": 32
+    },
+    {
+      "value": 1,
+      "target": 9,
+      "source": 32
+    },
+    {
+      "value": 1,
+      "target": 9,
+      "source": 33
+    },
+    {
+      "value": 1,
+      "target": 11,
+      "source": 33
+    },
+    {
+      "value": 1,
+      "target": 12,
+      "source": 33
+    },
+    {
+      "value": 2,
+      "target": 1,
+      "source": 34
+    },
+    {
+      "value": 1,
+      "target": 2,
+      "source": 34
+    },
+    {
+      "value": 1,
+      "target": 17,
+      "source": 35
+    },
+    {
+      "value": 1,
+      "target": 3,
+      "source": 36
+    },
+    {
+      "value": 3,
+      "target": 8,
+      "source": 36
+    },
+    {
+      "value": 1,
+      "target": 17,
+      "source": 36
+    },
+    {
+      "value": 1,
+      "target": 6,
+      "source": 37
+    },
+    {
+      "value": 1,
+      "target": 13,
+      "source": 37
+    },
+    {
+      "value": 2,
+      "target": 6,
+      "source": 38
+    },
+    {
+      "value": 2,
+      "target": 3,
+      "source": 39
+    },
+    {
+      "value": 1,
+      "target": 8,
+      "source": 39
+    },
+    {
+      "value": 5,
+      "target": 3,
+      "source": 40
+    },
+    {
+      "value": 3,
+      "target": 8,
+      "source": 40
+    },
+    {
+      "value": 1,
+      "target": 9,
+      "source": 40
+    },
+    {
+      "value": 1,
+      "target": 11,
+      "source": 40
+    },
+    {
+      "value": 1,
+      "target": 1,
+      "source": 41
+    },
+    {
+      "value": 2,
+      "target": 3,
+      "source": 41
+    },
+    {
+      "value": 1,
+      "target": 9,
+      "source": 41
+    },
+    {
+      "value": 4,
+      "target": 3,
+      "source": 42
+    },
+    {
+      "value": 1,
+      "target": 8,
+      "source": 42
+    },
+    {
+      "value": 1,
+      "target": 10,
+      "source": 42
+    },
+    {
+      "value": 1,
+      "target": 17,
+      "source": 43
+    },
+    {
+      "value": 1,
+      "target": 2,
+      "source": 44
+    },
+    {
+      "value": 1,
+      "target": 5,
+      "source": 44
+    },
+    {
+      "value": 5,
+      "target": 12,
+      "source": 44
+    },
+    {
+      "value": 1,
+      "target": 16,
+      "source": 44
+    },
+    {
+      "value": 1,
+      "target": 5,
+      "source": 45
+    },
+    {
+      "value": 4,
+      "target": 7,
+      "source": 45
+    },
+    {
+      "value": 1,
+      "target": 1,
+      "source": 46
+    },
+    {
+      "value": 1,
+      "target": 3,
+      "source": 46
+    },
+    {
+      "value": 1,
+      "target": 9,
+      "source": 46
+    },
+    {
+      "value": 1,
+      "target": 10,
+      "source": 46
+    },
+    {
+      "value": 2,
+      "target": 17,
+      "source": 46
+    },
+    {
+      "value": 1,
+      "target": 4,
+      "source": 47
+    },
+    {
+      "value": 1,
+      "target": 17,
+      "source": 47
+    },
+    {
+      "value": 1,
+      "target": 12,
+      "source": 48
+    },
+    {
+      "value": 1,
+      "target": 15,
+      "source": 48
+    },
+    {
+      "value": 1,
+      "target": 17,
+      "source": 48
+    },
+    {
+      "value": 1,
+      "target": 1,
+      "source": 49
+    },
+    {
+      "value": 1,
+      "target": 4,
+      "source": 49
+    },
+    {
+      "value": 1,
+      "target": 5,
+      "source": 50
+    },
+    {
+      "value": 2,
+      "target": 12,
+      "source": 50
+    },
+    {
+      "value": 1,
+      "target": 5,
+      "source": 51
+    },
+    {
+      "value": 2,
+      "target": 6,
+      "source": 51
+    },
+    {
+      "value": 2,
+      "target": 7,
+      "source": 51
+    },
+    {
+      "value": 1,
+      "target": 14,
+      "source": 51
+    },
+    {
+      "value": 4,
+      "target": 3,
+      "source": 52
+    },
+    {
+      "value": 1,
+      "target": 10,
+      "source": 53
+    },
+    {
+      "value": 2,
+      "target": 12,
+      "source": 53
+    },
+    {
+      "value": 1,
+      "target": 15,
+      "source": 53
+    },
+    {
+      "value": 4,
+      "target": 4,
+      "source": 54
+    },
+    {
+      "value": 1,
+      "target": 17,
+      "source": 54
+    },
+    {
+      "value": 3,
+      "target": 17,
+      "source": 55
+    },
+    {
+      "value": 1,
+      "target": 3,
+      "source": 56
+    },
+    {
+      "value": 2,
+      "target": 8,
+      "source": 56
+    },
+    {
+      "value": 4,
+      "target": 12,
+      "source": 57
+    },
+    {
+      "value": 2,
+      "target": 3,
+      "source": 58
+    },
+    {
+      "value": 4,
+      "target": 0,
+      "source": 59
+    },
+    {
+      "value": 1,
+      "target": 17,
+      "source": 60
+    },
+    {
+      "value": 4,
+      "target": 0,
+      "source": 61
+    },
+    {
+      "value": 1,
+      "target": 1,
+      "source": 61
+    },
+    {
+      "value": 1,
+      "target": 9,
+      "source": 61
+    },
+    {
+      "value": 1,
+      "target": 12,
+      "source": 61
+    },
+    {
+      "value": 1,
+      "target": 2,
+      "source": 62
+    },
+    {
+      "value": 1,
+      "target": 6,
+      "source": 62
+    },
+    {
+      "value": 1,
+      "target": 8,
+      "source": 62
+    },
+    {
+      "value": 6,
+      "target": 15,
+      "source": 63
+    },
+    {
+      "value": 1,
+      "target": 5,
+      "source": 64
+    }
+  ],
+  "nodes": [
+    {
+      "id": "Algorithms & Theory"
+    },
+    {
+      "id": "Artificial Intelligence"
+    },
+    {
+      "id": "Computer Education"
+    },
+    {
+      "id": "Computer Vision and Graphics"
+    },
+    {
+      "id": "Databases, Data Mining, Information Retrieval"
+    },
+    {
+      "id": "Distributed & Parallel Computing"
+    },
+    {
+      "id": "Hardware, VLSI and CAD"
+    },
+    {
+      "id": "Computer Architecture and Code Generation"
+    },
+    {
+      "id": "Human-Computer Interaction"
+    },
+    {
+      "id": "Machine Learning & Pattern Recognition"
+    },
+    {
+      "id": "Multimedia"
+    },
+    {
+      "id": "Natural Language & Speech"
+    },
+    {
+      "id": "Networks & Communications"
+    },
+    {
+      "id": "Operating Systems and Embedded Systems"
+    },
+    {
+      "id": "Programming Languages"
+    },
+    {
+      "id": "Security & Privacy"
+    },
+    {
+      "id": "Software Engineering"
+    },
+    {
+      "id": "Others"
+    },
+    {
+      "id": "王昱舜"
+    },
+    {
+      "id": "王國禎"
+    },
+    {
+      "id": "吳育松"
+    },
+    {
+      "id": "吳凱強"
+    },
+    {
+      "id": "李奇育"
+    },
+    {
+      "id": "李毅郎"
+    },
+    {
+      "id": "易志偉"
+    },
+    {
+      "id": "林文杰"
+    },
+    {
+      "id": "林甫俊"
+    },
+    {
+      "id": "林盈達"
+    },
+    {
+      "id": "林靖茹"
+    },
+    {
+      "id": "邱維辰"
+    },
+    {
+      "id": "施仁忠"
+    },
+    {
+      "id": "洪瑞鴻"
+    },
+    {
+      "id": "胡毓志"
+    },
+    {
+      "id": "范倫達"
+    },
+    {
+      "id": "孫春在"
+    },
+    {
+      "id": "荊宇泰"
+    },
+    {
+      "id": "張永儒"
+    },
+    {
+      "id": "張立平"
+    },
+    {
+      "id": "曹孝櫟"
+    },
+    {
+      "id": "莊仁輝"
+    },
+    {
+      "id": "莊榮宏"
+    },
+    {
+      "id": "陳永昇"
+    },
+    {
+      "id": "陳冠文"
+    },
+    {
+      "id": "陳穎平"
+    },
+    {
+      "id": "陳耀宗"
+    },
+    {
+      "id": "單智君"
+    },
+    {
+      "id": "彭文孝"
+    },
+    {
+      "id": "彭文志"
+    },
+    {
+      "id": "曾文貴"
+    },
+    {
+      "id": "曾新穆"
+    },
+    {
+      "id": "曾煜棋"
+    },
+    {
+      "id": "游逸平"
+    },
+    {
+      "id": "黃世強"
+    },
+    {
+      "id": "黃俊穎"
+    },
+    {
+      "id": "黃俊龍"
+    },
+    {
+      "id": "黃國源"
+    },
+    {
+      "id": "詹力韋"
+    },
+    {
+      "id": "趙禧綠"
+    },
+    {
+      "id": "蔡文錦"
+    },
+    {
+      "id": "蔡孟宗"
+    },
+    {
+      "id": "蔡淳仁"
+    },
+    {
+      "id": "蔡錫鈞"
+    },
+    {
+      "id": "蕭子健"
+    },
+    {
+      "id": "謝續平"
+    },
+    {
+      "id": "嚴力行"
+    }
+  ]
+}
