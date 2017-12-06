@@ -1,7 +1,11 @@
 var item = document.getElementById("sanky_diagram");
-var svg = d3.select("svg"),
-    width = parseInt(window.getComputedStyle(item,null).getPropertyValue("width"),10),
+
+var margin = {left: 150, right: 150},
+    width = parseInt(window.getComputedStyle(item,null).getPropertyValue("width"),10)- margin.left - margin.right,
     height = parseInt(window.getComputedStyle(item,null).getPropertyValue("height"),10);
+
+var svg = d3.select("svg").attr("transform", 
+    "translate(" + margin.left + "," + 0 + ")");
 
 // var formatNumber = d3.format(",.0f"),
 //     format = function(d) { return formatNumber(d) + " times"; };
