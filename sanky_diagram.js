@@ -1,6 +1,6 @@
 var item = document.getElementById("sanky_diagram");
 
-var margin = {left: 150, right: 150},
+var margin = {left: parseInt(window.getComputedStyle(item,null).getPropertyValue("width"),10)*0.2, right: parseInt(window.getComputedStyle(item,null).getPropertyValue("width"),10)*0.2},
     width = parseInt(window.getComputedStyle(item,null).getPropertyValue("width"),10)- margin.left - margin.right,
     height = parseInt(window.getComputedStyle(item,null).getPropertyValue("height"),10);
 
@@ -38,7 +38,12 @@ d3.json("data/data.json", function(error, energy) {
     link = link
         .data(energy.links)
         .enter().append("path")
-        .attr("class",function(d) {return d.source.id })
+        .attr("class",function(d) { 
+            var target = d.target.id.replace(/ /g,"-");
+            target = target.replace(/,/g,"-")
+            var classname = d.source.id+" "+target.replace(/&/g,"-") ;
+            return classname ;
+        })
         .attr("d", d3.sankeyLinkHorizontal())
         .attr("stroke-width", function(d) { return Math.max(5, d.width); })
         .attr("stroke-opacity", 0.2)
@@ -80,6 +85,7 @@ d3.json("data/data.json", function(error, energy) {
 function click(d)
 {
     projection_path.style("opacity",0.2);
-    str = '.'+ d.id
-    highlight = svg.selectAll(str).style("opacity",1);
+    str = '.'+ d.id.replace(/ /g,"-");
+    str = str.replace(/,/g,"-");
+    highlight = svg.selectAll(str.replace(/&/g,"-")).style("opacity",1);
 }
